@@ -35,7 +35,7 @@ const PictoCanvas = () => {
         <MyImage
           x={0}
           y={0}
-          src="https://static.arasaac.org/pictograms/10158_300.png"
+          src="https://static.arasaac.org/pictograms/10158_500.png"
         />
         <MyImage
           x={0}
